@@ -48,7 +48,7 @@ Save the code in a file, e.g., keylogger.py.
 Run it in the terminal or command prompt:
 
 python keylogger.py
-View the Logs: Keystrokes will be logged into a file named keylog.txt in the same directory where the script is running.
+View the Logs: Keystrokes will be logged into a file named keylog.txt in the same directory where the script is running.)
 
  
     
